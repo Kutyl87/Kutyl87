@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
-<h3 align="center">Engineering Student | Backend & Machine Learning</h3>
+<h3 align="center">Engineering Student | Computer Science [Artificial Intelligence]</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C++-00599C?style=for-the-badge&logo=c%2B%2B" />
